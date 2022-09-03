@@ -33,6 +33,9 @@ Admin can keep track for bed availability
 
 Doctor login:
 
+![Doctor login](https://user-images.githubusercontent.com/112558434/188260387-41fb8d15-b0ac-4f88-a6b6-01d37396d7e1.png)
+
+
 Doctor panel:
 ![Doctor panel](https://user-images.githubusercontent.com/112558434/188259296-5c851585-5502-4da3-be1e-0b68702f3e1c.png)
 
@@ -41,7 +44,7 @@ Doctor can see patient full medical history and provide medications.
 
 ![medications](https://user-images.githubusercontent.com/112558434/188259203-700acb73-d262-4245-a505-f046c8c6404f.png)
 
-![full history of patient](https://user-images.githubusercontent.com/112558434/188259460-690f2b5a-1642-4045- bbad-64e72fad8f1e.png)
+![full history of patient](https://user-images.githubusercontent.com/112558434/188260389-2a109a43-acb7-42b8-b930-ed85d8e57186.png)
 
 Receptionist Login:
 ![receptionist login](https://user-images.githubusercontent.com/112558434/188259486-a3248dfd-a666-4dd1-ba0b-84276f4a30c4.png)
